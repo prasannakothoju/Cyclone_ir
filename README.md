@@ -13,7 +13,7 @@ This is a web application for detecting cyclones using a deep learning model. Th
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/prasannakothoju/Cyclone_ir/edit/main/README.md
+    git clone https://github.com/prasannakothoju/Cyclone_ir
     ```
 
 2. Navigate to the project directory:
