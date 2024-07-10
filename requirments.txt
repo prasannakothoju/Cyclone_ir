@@ -4,4 +4,5 @@ torchsummary==1.5.1
 matplotlib==3.7.1
 numpy==1.24.3
 opencv-python==4.8.0.74
-python==3.8
+Flask==3.0.3
+Werkzeug==3.0.3

@@ -19,16 +19,26 @@ This is a web application for detecting cyclones using a deep learning model. Th
 2. Navigate to the project directory:
 
     ```bash
-    cd cyclone-detection-web-app
+    cd Cyclone_ir
     ```
 
-3. Install the required Python dependencies:
+3. Create and activate a virtual environment (optional but recommended):
+
+    ```bash
+    python -m venv venv
+    # On Windows:
+    venv\Scripts\activate
+    # On macOS/Linux:
+    source venv/bin/activate
+    ```
+
+4. Install the required Python dependencies:
 
     ```bash
     pip install -r requirements.txt
     ```
 
-4. Download the pre-trained PyTorch model and place it in the project directory.
+5. Download the pre-trained PyTorch model and place it in the project directory.
 
 ## Usage
 
@@ -51,4 +61,3 @@ The cyclone detection model is based on a custom convolutional neural network im
 ## Contributing
 
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
-
